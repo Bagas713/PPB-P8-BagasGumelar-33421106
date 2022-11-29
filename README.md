@@ -2,10 +2,15 @@
 Repository ini dibuat untuk memenuhi tugas perkuliahan Pemrograman Perangkat Bergerak Semester III Politeknik Negeri Semarang
 
 Dibuat Oleh ;
+
 Nama : Bagas Gumelar
+
 Kelas : IK-2B
+
 NIM : 3.34.21.1.06
+
 Angkatan : 2021
+
 Prodi : D3-Teknik Informatika
 
 ![image](https://user-images.githubusercontent.com/109123174/204522499-6d5fc603-cd9a-494d-a227-eb3c9d157460.png)
